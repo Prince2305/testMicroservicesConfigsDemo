@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+
+accounts:
+ message: "Welcome to AshishBank accounts related Production APIs "
+ contactDetails:
+  name: "Ashish Narkar - Prod Owner"
+  email: "ashish@ashishbank.com"
+ onCallSupport:
+  - (444) 444-7896
+  - (444) 444-3214

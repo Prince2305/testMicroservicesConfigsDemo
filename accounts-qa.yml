@@ -1,0 +1,11 @@
+build:
+ version: "2.0"
+
+accounts:
+ message: "Welcome to AshishBank accounts related QA APIs "
+ contactDetails:
+  name: "Smith Raven - QA Lead"
+  email: "smith@eazybank.com"
+ onCallSupport:
+  - (666) 444-4596
+  - (666) 653-2543
