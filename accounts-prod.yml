@@ -2,7 +2,7 @@ build:
  version: "1.0"
 
 accounts:
- message: "Welcome to AshishBank accounts related Production APIs "
+ message: "Welcome to AshishBank accounts related Prod APIs "
  contactDetails:
   name: "Ashish Narkar - Prod Owner"
   email: "{cipher}3423e0c970d511b182adfd699a581bf2aaeaa4becb290ca016d143aae08a8a3cabbf057f7b7e7b99800931aae347a2e9"
